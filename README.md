@@ -1,3 +1,7 @@
+
+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
+
+
 # Auto-GPT: An Autonomous GPT-4 Experiment
 [![Unit Tests](https://img.shields.io/github/actions/workflow/status/Significant-Gravitas/Auto-GPT/ci.yml?label=unit%20tests)](https://github.com/Significant-Gravitas/Auto-GPT/actions/workflows/ci.yml)
 [![Discord Follow](https://dcbadge.vercel.app/api/server/autogpt?style=flat)](https://discord.gg/autogpt)
@@ -147,7 +151,7 @@ exit the program, or provide feedback to the AI.
    1. Authorize a single command, enter `y`
    2. Authorize a series of _N_ continuous commands, enter `y -N`
    3. Exit the program, enter `n`
-
+SA7880000126608010488699
 
 ### Logs
 
